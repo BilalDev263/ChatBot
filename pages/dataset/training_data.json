@@ -1,0 +1,7 @@
+[
+    {"text_input": "What is the capital of France?", "output": "The capital of France is Paris."},
+    {"text_input": "What is 2 + 2?", "output": "2 + 2 equals 4."},
+    {"text_input": "Who wrote '1984'?", "output": "George Orwell wrote '1984'."},
+    {"text_input": "Explain the theory of relativity.", "output": "The theory of relativity was developed by Albert Einstein."}
+  ]
+  
